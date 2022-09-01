@@ -19,3 +19,7 @@ Nesse projeto desenvolvemos uma aplicação de uma loja online, fizemos requisi�
 * JavaScript
 * React.js
 
+## Contribuições: 
+Caio Severino
+Vínicius Shkromada
+David Machado
