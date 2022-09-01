@@ -1,16 +1,21 @@
-# 🚧 README em construção 🚧
 
-<!-- Olá, Tryber!
+# :tophat: Online Store
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
+![Preview Projeto](./images/preview1.jpg)
 
-É essencial que você preencha esse documento por conta própria, ok?
+<!-- ## Acesse meu projeto <a href="https://lauropera.github.io/dont-trumps/">AQUI</a> -->
 
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
+## :satellite: Desenvolvimento
 
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
+Projeto desenvolvido na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
 
--->
+Nesse projeto desenvolvemos uma aplicação de uma loja online, fizemos requisições para a API do mercado livre.
+
+
+## :hammer_and_wrench: Tecnologias
+
+* HTML
+* CSS
+* JavaScript
+* React.js
+
